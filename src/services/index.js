@@ -1,0 +1,9 @@
+module.exports.authService = require('./auth.service');
+module.exports.emailService = require('./email.service');
+module.exports.tokenService = require('./token.service');
+module.exports.userService = require('./user.service');
+module.exports.packageService = require('./package.service');
+module.exports.bleSensorService = require('./bleSensor.service');
+module.exports.bleGatewayService = require('./bleGateway.service');
+module.exports.onBoardService = require('./onboard.service');
+module.exports.associationService = require('./association.service');
